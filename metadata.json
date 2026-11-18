@@ -1,0 +1,6 @@
+{
+  "name": "Kindred — Personal Memory Companion",
+  "description": "A privacy-first AI personal memory companion, digital memory journal, daily routine tracker, and authorized caregiver dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
